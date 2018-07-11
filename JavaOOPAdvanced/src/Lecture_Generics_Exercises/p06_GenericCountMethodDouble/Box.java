@@ -1,4 +1,4 @@
-package Lecture_Generics_Exercises.p05_GenericCountMethodString;
+package Lecture_Generics_Exercises.p06_GenericCountMethodDouble;
 
 import java.util.ArrayList;
 import java.util.List;
